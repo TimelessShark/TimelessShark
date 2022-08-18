@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there. Welcome to my Profile.
+### I'm currently learning how to program games in Unity, create programs in C and learn more about MATLAB.
+### My goals are to become more familiar with creating programs and scripts to better my understanding on how games and websites work.
+### I am going to use this GitHub profile to showcase what I have learned, my progress on my projects, and what I can do.
 
 <!--
 **TimelessShark/TimelessShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
