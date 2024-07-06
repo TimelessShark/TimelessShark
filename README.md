@@ -1,6 +1,5 @@
 ### Hello! 👋 
-### My name is Lucas and I am an engineering student in my second year at Simon Fraser University.
-### I'm currently learning how to program games in Unity, create programs in C and learn more about MATLAB.
+### My name is Timeless.
 ### My goals are to become more familiar with creating programs and scripts to better my understanding on how games and websites work.
 ### I am going to use this GitHub profile to showcase what I have learned, my progress on my projects, and what I can do.
 
